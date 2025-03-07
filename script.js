@@ -8,3 +8,6 @@ const c = 3 ; // Const is a unchangeable
 function add(a, b) {
   alert(a + b)
 }
+
+add(1, 5)
+
