@@ -5,6 +5,6 @@ let b = 2 ; // Let is a changeable
 const c = 3 ; // Const is a unchangeable
 
 
-if (a == 1) {
-  console.log("a is 1")
+if (a >= b ) {
+  window.alert("HOW" + a)
 }
