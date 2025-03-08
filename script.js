@@ -17,4 +17,4 @@ let num2 = 1.9 ;
 
 let result = Math.round(num1 * num2) ;
 
-console.log()
+console.log(resul)
