@@ -19,6 +19,7 @@ let result = Math.round(num1 * num2) ;
 
 
 let num3 = 1.2 ;
+let num4 = Math.pow(2, 5)
 
 // let result = num1 * num2;
 
