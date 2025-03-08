@@ -24,7 +24,7 @@ let num4 = Math.pow(2, 5) ;
 const result2 = Math.floor(num3 * num4) ;
 
 let maximum = Math.max(Math.random() * 20);
-alert(maximum)
+alert(Math.round(maximum))
 
 
 // let result = num1 * num2;
