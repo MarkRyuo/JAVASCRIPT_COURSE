@@ -30,6 +30,3 @@ alert(Math.round(maximum))
 // let result = num1 * num2;
 
 console.log(result, result2)
-
-
-
