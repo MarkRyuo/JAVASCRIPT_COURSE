@@ -17,6 +17,9 @@ let num2 = 1.9 ;
 
 let result = Math.round(num1 * num2) ;
 
+
+let num3 = 1.2 ;
+
 // let result = num1 * num2;
 
 console.log(result)
