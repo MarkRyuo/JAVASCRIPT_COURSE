@@ -30,5 +30,6 @@ alert(Math.round(maximum))
 // let result = num1 * num2;
 
 let name = 'John' ; // String
+let buy = 20.00
 
 console.log(result, result2)
