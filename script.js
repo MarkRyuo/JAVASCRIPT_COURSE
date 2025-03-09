@@ -29,10 +29,11 @@ alert(Math.round(maximum))
 
 // let result = num1 * num2;
 
-let name = 'John' ; // String
+let name = 'Jhon Mark \'s ' ; // String
 let buy = 2000; // 20.00 pesos
 let money = 10000; // 100.00 pesos
 
 alert(name + ' ' + (money - buy ) / 100)
 
 console.log(result, result2)
+
