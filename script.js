@@ -30,7 +30,7 @@ alert(Math.round(maximum))
 // let result = num1 * num2;
 
 let name = 'John' ; // String
-let buy = 20.00
+let buy = 20.00;
 let money = 100.00;
 
 
