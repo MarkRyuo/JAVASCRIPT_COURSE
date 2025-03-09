@@ -33,5 +33,6 @@ let name = 'John' ; // String
 let buy = 20.00;
 let money = 100.00;
 
+alert(name + (money - buy ) / 100)
 
 console.log(result, result2)
