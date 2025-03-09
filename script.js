@@ -30,8 +30,8 @@ let maximum = Math.max(Math.random() * 20) + -10;
 // let result = num1 * num2;
 
 let name = 'John' ; // String
-let buy = 2000;
-let money = 10000;
+let buy = 2000; // 20.00 pesos
+let money = 10000; // 100.00 pesos
 
 alert(name + ' ' + (money - buy ) / 100)
 
