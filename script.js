@@ -29,7 +29,7 @@ alert(Math.round(maximum))
 
 // let result = num1 * num2;
 
-let name = 'Jhon Mark \'s ' ; // String
+let name = 'Jhon Mark \'s ' ; // String and escape character
 let buy = 2000; // 20.00 pesos
 let money = 10000; // 100.00 pesos
 
