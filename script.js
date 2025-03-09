@@ -29,6 +29,6 @@ alert(Math.round(maximum))
 
 // let result = num1 * num2;
 
-let name = 'John' ; 
+let name = 'John' ; // String
 
 console.log(result, result2)
