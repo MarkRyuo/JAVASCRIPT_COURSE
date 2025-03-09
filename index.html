@@ -4,10 +4,43 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
-  <title>Day 01</title>
+  <title>Day 02</title>
 </head>
 <body>
+
+  <!-- <button title="Good Job" onclick="alert('Good Job')">Click Me</button> -->
   
+  <p>Cart Quantity</p>
+
+  <button onclick="
+    console.log(`Quantity: ${showQuantity}`)
+  ">Show Quantity</button>
+
+  <button onclick="
+  showQuantity = showQuantity + 1 ;
+  console.log(`Quantity: ${showQuantity}`)
+  ">Add to Cart</button>
+
+  <button onclick="
+  showQuantity += 2 // showQuantity = showQuantity + 2 shortcut
+  console.log(`Quantity: ${showQuantity}`)
+  ">+2</button>
+
+  <button onclick="
+  showQuantity = showQuantity + 3
+  console.log(`Quantity: ${showQuantity}`)
+  ">+3</button>
+
+  <button onclick="
+  showQuantity = showQuantity -1 
+  console.log(`Quantity: ${showQuantity}`)
+  ">-1</button>
+
+  <button onclick="
+  showQuantity = 0
+  console.log(`Reset Quantity`)
+  console.log(`Quantity: ${showQuantity}`)
+  ">Reset Card</button>
 </body>
 <script src="script.js"></script>
 </html>
