@@ -33,7 +33,9 @@ let name = 'Jhon Mark \'s ' ; // String and escape character
 let buy = 2000; // 20.00 pesos
 let money = 10000; // 100.00 pesos
 
-alert(name + ' ' + (money - buy ) / 100)
+// alert(name + ' ' + (money - buy ) / 100)
+
+alert(`name ({ money - buy ) / 100}`)
 
 console.log(result, result2)
 
