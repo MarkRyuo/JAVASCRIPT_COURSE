@@ -24,15 +24,15 @@ let num4 = Math.pow(2, 5) ;
 const result2 = Math.floor(num3 * num4) ;
 
 let maximum = Math.max(Math.random() * 20) + -10;
-alert(Math.round(maximum))
+// alert(Math.round(maximum))
 
 
 // let result = num1 * num2;
 
 let name = 'John' ; // String
-let buy = 20.00;
-let money = 100.00;
+let buy = 2000;
+let money = 10000;
 
-alert(name + (money - buy ) / 100)
+alert(name + ' ' + (money - buy ) / 100)
 
 console.log(result, result2)
