@@ -31,5 +31,7 @@ alert(Math.round(maximum))
 
 let name = 'John' ; // String
 let buy = 20.00
+let money = 100.00
+
 
 console.log(result, result2)
